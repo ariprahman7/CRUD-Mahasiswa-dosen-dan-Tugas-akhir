@@ -12,3 +12,5 @@ if (!$koneksi) {
 return $koneksi;
 ?>
 
+<!-- id21044191_root -->
+<!-- Jangan77@ -->
